@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![Screenshot 2023-11-27 114128](https://github.com/Avinav-kashyap/Avi-ai-chat/assets/99408310/16e469b5-33ea-40cf-85ef-13a9ee6ae82b)
+
 ## Getting Started
 
 First, run the development server:
